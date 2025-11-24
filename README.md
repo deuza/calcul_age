@@ -1,3 +1,4 @@
+![GitHub Release](https://img.shields.io/github/v/release/deuza/calcul_age)
 [![GitHub last commit](https://img.shields.io/github/last-commit/deuza/calcul_age?style=plastic)](https://github.com/deuza/calcul_age/commits/main)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/deuza/calcul_age)
 [![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg?style=plastic)](https://creativecommons.org/publicdomain/zero/1.0/)
